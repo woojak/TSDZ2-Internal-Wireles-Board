@@ -2,6 +2,27 @@
 
 <b>Design inspired by the TSDZ2 Wireless Project by Casainho.</b>
 
+Hello.
+In my spare time, I finally managed to design an internal PCB 
+based on the TSDZ2 EBike Wireless Controller with some small additions  :) 
+I added Relay for lights with a voltage higher than 5V 
+(you can choose whether it should be controlled from nRF or from the motor controller), solder pads 
+for the temperature sensor and Ufl connector for an external antenna.
+
+Unfortunately, in order to connect it, I plan to slightly modify the nRF.
+(https://devzone.nordicsemi.com/f/nordic-q-a/58983/nrf52840-dongle-matching-network-for-ext-antenna)
+
+I am not only sure if the PCB dimensions will be perfect, unfortunately I am waiting 
+for a spare controller and I do not want to disassemble the engine :)
+
+I hope people will like the project!
+I am also waiting for constructive criticism, maybe someone will manage to notice some error for which I will be able to fix!
+
+Link created in EasyEDA
+link:
+https://easyeda.com/woojak666/tsdz2-wireles-board_copy
+
+
 
 jumpers "SJ1" "SJ2", you can select the signal
 source for the light switch (by default not selected)
