@@ -1,4 +1,4 @@
-Design inspired by the TSDZ2 Wireless Project by Casainho.
+<b>Design inspired by the TSDZ2 Wireless Project by Casainho.</b>
 
 jumpers "SJ1" "SJ2", you can select the signal
 source for the light switch (by default not selected)
