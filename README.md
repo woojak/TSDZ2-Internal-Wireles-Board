@@ -1,4 +1,6 @@
-<b><font size="10" color="brown">Design inspired by the TSDZ2 Wireless Project by Casainho.</b></font>
+
+
+<b>Design inspired by the TSDZ2 Wireless Project by Casainho.</b>
 
 
 jumpers "SJ1" "SJ2", you can select the signal
