@@ -10,3 +10,11 @@ temperature sensor: LM35CZNOPB (P0.15)
 
 external antenna:
 2.4GHZ (50ohm internal resistance)
+
+[img]https://images92.fotosik.pl/501/d578191964af04d6med.png[/img]
+
+[img]https://images92.fotosik.pl/501/061baf7992c5fff2med.png[/img]
+
+[img]https://images91.fotosik.pl/501/7f113ee466bc0085med.png[/img]
+
+[img]https://images90.fotosik.pl/501/61608f84c9f4ba9bmed.png[/img]
