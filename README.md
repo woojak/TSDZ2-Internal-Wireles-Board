@@ -17,11 +17,7 @@ for the temperature sensor and Ufl connector for an external antenna.<br>
 Unfortunately, in order to connect it, I plan to slightly modify the nRF.<br>
 (**[link](https://devzone.nordicsemi.com/f/nordic-q-a/58983/nrf52840-dongle-matching-network-for-ext-antenna)**)<br><br>
 
-<br>
-I am not only sure if the PCB dimensions will be perfect, unfortunately I am waiting <br>
-for a spare controller and I do not want to disassemble the engine :)<br><br>
-<br>
-<br>
+
 version 1.2:<br>
 Change from internal 5V inverter to external <a href="https://export.rsdelivers.com/product/xp-power/sth0548s05/xp-power-surface-mount-dc-dc-switching-regulator/1883365" target="_blank">XP Power STH0548S05</a>.
 <br>
@@ -48,7 +44,8 @@ temperature sensor: LM35CZNOPB (P0.15)
 
 external antenna:
 2.4GHZ (50ohm internal resistance)
-
+<br>
+Version 1.1
 <img src="Front.png" border="0" alt="" />
 
 <img src="Back.png" border="0" alt="" />
@@ -57,6 +54,16 @@ external antenna:
 
 <img src="3D%20Back.png" border="0" alt="" />
 
+<br>
+<br>
+Version 1.2
+<img src="Front.png" border="0" alt="" />
+
+<img src="Back.png" border="0" alt="" />
+
+<img src="3D%20Front.png" border="0" alt="" />
+
+<img src="3D%20Back.png" border="0" alt="" />
 <br>
 <br>
 
@@ -87,4 +94,8 @@ I am currently waiting for delivery.
 
 
 
-
+<br>
+I am not only sure if the PCB dimensions will be perfect, unfortunately I am waiting <br>
+for a spare controller and I do not want to disassemble the engine :)<br><br>
+<br>
+<br>
