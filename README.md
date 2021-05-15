@@ -61,13 +61,13 @@ Version 1.1
 <br>
 <br>
 Version 1.2
-<img src="Front.png" border="0" alt="" />
+<img src="1.2%20front.png" border="0" alt="" />
 
-<img src="Back.png" border="0" alt="" />
+<img src="1.2%20back.png" border="0" alt="" />
 
-<img src="3D%20Front.png" border="0" alt="" />
+<img src="1.2%20front%203d.png" border="0" alt="" />
 
-<img src="3D%20Back.png" border="0" alt="" />
+<img src="1.2%203d%20back.png" border="0" alt="" />
 <br>
 <br>
 
@@ -76,20 +76,11 @@ Minimalist PCB board to assemble **[DIY EBike wireless controller](https://opens
 <br>
 <br>
 <img src="Front%20nRF.png" border="0" alt="" />
-<br>
-<br>
-<br>
-<br>
+
 <img src="nRF%20Back.png" border="0" alt="" />
-<br>
-<br>
-<br>
-<br>
+
 <img src="nRF%203D%20front.png" border="0" alt="" />
-<br>
-<br>
-<br>
-<br>
+
 <img src="nRF%203D%20back.png" border="0" alt="" />
 <br>
 <br>
