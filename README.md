@@ -49,19 +49,37 @@ temperature sensor: LM35CZNOPB (P0.15)
 external antenna:
 2.4GHZ (50ohm internal resistance)
 
-<a href="https://www.fotosik.pl/zdjecie/7f113ee466bc0085" target="_blank"><img src="https://images91.fotosik.pl/501/7f113ee466bc0085med.png" border="0" alt="" /></a>
+<img src="Front.png" border="0" alt="" />
 
-<a href="https://www.fotosik.pl/zdjecie/d578191964af04d6" target="_blank"><img src="https://images92.fotosik.pl/501/d578191964af04d6med.png" border="0" alt="" /></a>
+<img src="Back.png" border="0" alt="" />
 
-<a href="https://www.fotosik.pl/zdjecie/061baf7992c5fff2" target="_blank"><img src="https://images92.fotosik.pl/501/061baf7992c5fff2med.png" border="0" alt="" /></a>
+<img src="3D%20Front.png" border="0" alt="" />
 
-<a href="https://www.fotosik.pl/zdjecie/61608f84c9f4ba9b" target="_blank"><img src="https://images90.fotosik.pl/501/61608f84c9f4ba9bmed.png" border="0" alt="" /></a>
+<img src="3D%20Back.png" border="0" alt="" />
 
 <br>
 <br>
 
 nRF Adaptive Board:<br>
 Minimalist PCB board to assemble **[DIY EBike wireless controller](https://opensourceebike.github.io/ebike_wireless_controller.html).**<br>
+<br>
+<br>
+<img src="Front%20nRF.png" border="0" alt="" />
+<br>
+<br>
+<br>
+<br>
+<img src="nRF%20Back.png" border="0" alt="" />
+<br>
+<br>
+<br>
+<br>
+<img src="nRF%203D%20front.png" border="0" alt="" />
+<br>
+<br>
+<br>
+<br>
+<img src="nRF%203D%20back.png" border="0" alt="" />
 <br>
 <br>
 The PCB board has not been assembled by me yet.
